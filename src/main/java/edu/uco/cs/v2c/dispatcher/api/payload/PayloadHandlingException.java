@@ -1,9 +1,10 @@
 /*
- * Copyright (c) 2020 V2C Development Team. All rights reserved. Original code
- * copyright (c) 2020 Axonibyte Innovations, LLC. All rights reserved.
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
+ * Copyright (c) 2020 Caleb L. Power, Everistus Akpabio, Rashed Alrashed,
+ * Nicholas Clemmons, Jonathan Craig, James Cole Riggall, and Glen Mathew.
+ * All rights reserved. Original code copyright (c) 2020 Axonibyte Innovations,
+ * LLC. All rights reserved. Licensed under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with the
+ * License. You may obtain a copy of the License at
  * 
  *     http://www.apache.org/licenses/LICENSE-2.0
  * 
